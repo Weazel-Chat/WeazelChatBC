@@ -1,0 +1,15 @@
+#welcome{
+    color: red;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 35px;
+}
+#mainImage{
+    margin-right: 1000px;
+}
+#welcomeDiv{
+    background-color: turquoise;
+}
+#inputUsername{
+    width: 38%;
+}
